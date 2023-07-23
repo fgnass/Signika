@@ -45,7 +45,7 @@ wght = {
 }
 );
 date = "2023-06-22 09:31:25 +0000";
-familyName = Signika;
+familyName = "Signika AsterX";
 featurePrefixes = (
 {
 automatic = 1;

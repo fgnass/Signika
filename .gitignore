@@ -2,6 +2,10 @@
 venv
 build.stamp
 proof
+.ninja_log
+build.ninja
+fontbakery-report.html
+fontbakery-report.md
 
 # OS generated files #
 ######################

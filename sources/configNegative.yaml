@@ -2,6 +2,6 @@ sources:
   - SignikaNegative.designspace
 axisOrder:
   - wght
-familyName: "Signika Negative"
+familyName: "Signika Negative AsterX"
 vfDir: "../fonts/variable_negative"
 buildStatic: false

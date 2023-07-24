@@ -10,7 +10,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="master_ufo/Signika-NegativeLight.ufo" name="Signika Negative Light" familyname="Signika Negative" stylename="Light">
+    <source filename="master_ufo/SignikaAsterX-NegativeLight.ufo" name="Signika Negative AsterX Light" familyname="Signika Negative AsterX" stylename="Light">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -19,34 +19,34 @@
         <dimension name="Weight" xvalue="154"/>
       </location>
     </source>
-    <source filename="master_ufo/Signika-NegativeBold.ufo" name="Signika Negative Bold" familyname="Signika Negative" stylename="Bold">
+    <source filename="master_ufo/SignikaAsterX-NegativeBold.ufo" name="Signika Negative AsterX Bold" familyname="Signika Negative AsterX" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="321"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Signika Negative Light" familyname="Signika Negative" stylename="Light" filename="./instance_ufo/SignikaNegative-Light.ufo">
+    <instance name="Signika Negative AsterX Light" familyname="Signika Negative AsterX" stylename="Light" filename="./instance_ufo/SignikaNegative-Light.ufo">
       <location>
         <dimension name="Weight" xvalue="154"/>
       </location>
     </instance>
-    <instance name="Signika Negative Regular" familyname="Signika Negative" stylename="Regular" filename="./instance_ufo/SignikaNegative-Regular.ufo">
+    <instance name="Signika Negative AsterX Regular" familyname="Signika Negative AsterX" stylename="Regular" filename="./instance_ufo/SignikaNegative-Regular.ufo">
       <location>
         <dimension name="Weight" xvalue="213"/>
       </location>
     </instance>
-    <instance name="Signika Negative Medium" familyname="Signika Negative" stylename="Medium" filename="./instance_ufo/SignikaNegative-Medium.ufo">
+    <instance name="Signika Negative AsterX Medium" familyname="Signika Negative AsterX" stylename="Medium" filename="./instance_ufo/SignikaNegative-Medium.ufo">
       <location>
         <dimension name="Weight" xvalue="235"/>
       </location>
     </instance>
-    <instance name="Signika Negative SemiBold" familyname="Signika Negative" stylename="SemiBold" filename="./instance_ufo/SignikaNegative-SemiBold.ufo">
+    <instance name="Signika Negative AsterX SemiBold" familyname="Signika Negative AsterX" stylename="SemiBold" filename="./instance_ufo/SignikaNegative-SemiBold.ufo">
       <location>
         <dimension name="Weight" xvalue="269"/>
       </location>
     </instance>
-    <instance name="Signika Negative Bold" familyname="Signika Negative" stylename="Bold" filename="./instance_ufo/SignikaNegative-Bold.ufo">
+    <instance name="Signika Negative AsterX Bold" familyname="Signika Negative AsterX" stylename="Bold" filename="./instance_ufo/SignikaNegative-Bold.ufo">
       <location>
         <dimension name="Weight" xvalue="321"/>
       </location>

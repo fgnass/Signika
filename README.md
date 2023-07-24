@@ -3,9 +3,9 @@
 A fork of the [Signika](https://github.com/Ancymonic/Signika) font (Anna Giedryś, 2011) where the alignment ot the asterisk matches the x-height.
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="aster-x-black.gif" width="455" height="76">
-  <source media="(prefers-color-scheme: dark)" srcset="aster-x-white.gif" width="455" height="76">
-  <img src="aster-x.gif" width="455" height="152">
+  <source media="(prefers-color-scheme: light)" srcset="docs/00-aster-x/aster-x-black.gif" width="455" height="76">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/00-aster-x/aster-x-white.gif" width="455" height="76">
+  <img src="docs/00-aster-x/aster-x.gif" width="455" height="152">
 </picture>
 
 ## The German Genderstern
